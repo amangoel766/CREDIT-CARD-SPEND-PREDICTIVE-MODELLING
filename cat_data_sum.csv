@@ -1,0 +1,4 @@
+,custid,birthmonth
+Not_Null,5000,5000
+Null,0,0
+Unique,5000,12
